@@ -1,0 +1,18 @@
+<table border="1" style="border-collapse: collapse;">
+  <tr>
+    <th>Name</th>
+    <th>Designation</th>
+    <th>Qualification</th>
+    <th>Experience</th>
+    <th>Email Id</th>
+    <th>Photo</th>
+  </tr>
+  <tr>
+    <td>Dr. ER Shiny Malar</td>
+    <td>Head, Professor</td>
+    <td>Ph.D.</td>
+    <td>9 years & 6 months</td>
+    <td>shinyamalar@stalimaycoe.edu.in</td>
+    <td><img src="photo.jpg" alt="Photo of Dr. ER Shiny Malar"></td>
+  </tr>
+</table>
