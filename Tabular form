@@ -1,18 +1,37 @@
+<!DOCTYPE html>
+<html>
 <table border="1" style="border-collapse: collapse;">
-  <tr>
-    <th>Name</th>
-    <th>Designation</th>
-    <th>Qualification</th>
-    <th>Experience</th>
-    <th>Email Id</th>
-    <th>Photo</th>
-  </tr>
-  <tr>
-    <td>Dr. ER Shiny Malar</td>
-    <td>Head, Professor</td>
-    <td>Ph.D.</td>
-    <td>9 years & 6 months</td>
-    <td>shinyamalar@stalimaycoe.edu.in</td>
-    <td><img src="photo.jpg" alt="Photo of Dr. ER Shiny Malar"></td>
-  </tr>
-</table>
+    <tr>
+        <th>Name</th>
+        <th>Designation</th>
+        <th>Qualification</th>
+        <th>Experience</th>
+        <th>Email Id</th>
+        <th>Photo</th>
+      </tr>
+      <tr>
+        <td>Dr. ER Shiny Malar</td>
+        <td>Head, Professor</td>
+        <td>Ph.D.</td>
+        <td>9 years & 6 months</td>
+        <td>shinyamalar@stalimaycoe.edu.in</td>
+        <td><img src="https://stellamaryscoe.edu.in/img/works/department/computer/ts/SHINY-MALAR.jpg" width="100" height="100" </td>
+    </tr>
+      <tr>
+        <td>Dr. A. Selva Reegan</td>
+        <td>Associate Professor</td>
+        <td>Ph.D.</td>
+        <td>14 years</td>
+        <td>selvareegan@stellamaryscoe.edu.in</td>
+        <td><img src="https://stellamaryscoe.edu.in/img/works/department/computer/ts/2.SELVA-REEGAN.jpg" width="100" height="100" </td>
+    </tr>  
+    </tr>
+    <tr>
+        <td>Mr. C. Bastin Rogers</td>
+        <td> Assistant Professor</td>
+        <td>M.E</td>
+        <td>9 years 10 months</td>
+        <td> bastinrogers@stellamaryscoe.edu.in</td>
+        <td><img src="https://stellamaryscoe.edu.in/img/works/department/computer/ts/BASTIN-ROGERS.jpg" width="100" height="100" </td>
+    </tr>  
+  </table>
