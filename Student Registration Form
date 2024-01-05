@@ -1,0 +1,119 @@
+<html>
+<head></head>
+<title></title>
+<center><body bgcolor="white">
+<table bordercolor="black" bgcolor="olivegreen">
+<caption>Student Registration Form</caption>
+<tr>
+  <td>Name</td>
+  <td><input type="text" size="15">
+  <td><FONT COLOR="RED"></td>
+</tr>
+<tr>
+  <td>Father Name</td>
+  <td><input type="text" size="15"></td>
+</tr>
+<tr>
+  <td>Mother Name</td>
+  <td><input type="text" size="15"></td>
+</tr> 
+<tr>
+  <td>Postal Address</td>
+  <td><input type="text" size="15"></td>
+</tr>
+<tr>
+  <td>Personal Address</td>
+  <td><input type="text" size="15"></td>
+</tr>
+<tr>
+  <td>City</td>
+  <td><select>
+      <option value="Select...">Select...</option>
+      <option value="Chennai">Chennai</option>
+      <option value="Coimbatore">Coimbatore</option>
+      <option value="Madurai">Madurai</option>
+      <option value="Salem">Salem</option>
+      <option value="Ambattur">Ambattur</option>
+      <option value="Tirunelveli">Tirunelveli</option>
+      <option value="Tiruppur">Tiruppur</option>
+      <option value="Tiruvottiyur">Tiruvottiyur</option>
+      <option value="Thoothukkudi">Thoothukkudi</option>
+      <option value="Nagercoil">Nagercoil</option>
+</tr>
+<tr>
+  <td>District</td>
+  <td><select>
+      <option value="Select...">Select...</option>
+      <option value="Chennai">Chennai</option>
+      <option value="Coimbatore">Coimbatore</option>
+      <option value="Madurai">Madurai</option>
+      <option value="Tiruchirappalli">Tiruchirappalli</option>
+      <option value="Salem">Salem</option>
+      <option value="Tirunelveli">Tirunelveli</option>
+      <option value="Tiruppur">Tiruppur</option>
+      <option value="Thoothukkudi">Thoothukkudi</option>
+      <option value="Kaniyakumari">Kaniyakumari</option>
+      <option value="Thanjavur">Thanjavur</option>
+      <option value="Dindigul">Dindigul</option></td>
+</tr>
+<tr>
+  <td>Sex</td>
+  <td><input type="radio" name="genter">Male
+      <input type="radio" name="genter">Female</td>
+</tr>
+<tr>
+  <td>Degree</td>
+  <td><select>
+      <option value="Select...">Select...</option>
+      <option value="BE">BE</option>
+      <option value="BA">BA</option>
+      <option value="B.Sc">B.Sc</option>
+      <option value="ME">ME</option>
+      <option value="MA">MA</option>
+      <option value="M.Sc">M.Sc</option>
+      <option value="B.Ed">B.Ed</option>
+      <option value="Diploma">Diploma</option></td>
+</tr>
+<tr>
+  <td>Course</td>
+  <td><select>
+      <option value="Select...">Select...</option>
+      <option value="CSE">CSE</option>
+      <option value="AI">AI</option>
+      <option value="ECE">ECE</option>
+      <option value="EEE">EEE</option>
+      <option value="Civil engineering">Civil engineering</option>
+      <option value="Mechanical engineering">Mechanical engineering</option>
+      <option value="Micro biology">Micro biology</option>
+      <option value=""></option>
+</td>
+</tr>
+
+<tr>
+  <td>PinCode</td>
+  <td><input type="text" size="15"></td>
+</tr>
+<tr>
+  <td>E-Mail Id</td>
+  <td><input type="text" size="15"></td>
+</tr>
+<tr>
+  <td>DOB</td>
+  <td><input type="text" size="15"></td>
+</tr>
+<tr>
+  <td>Mobile No</td>
+  <td><input type="text" size="15"></td>
+</tr>
+<tr>
+  <td>Alternative Mobile No</td>
+  <td><input type="text" size="15"></td>
+</tr>
+<tr>
+  <td><input type="Reset" value="Reset the table"></td>
+  <td><input type="Submit" value="Submit"></td>
+</tr>
+</table>
+<a href="C:\Users\SMCE BIGDATA\Documents\college.html">Back to Home page</a>
+</body>
+</html>
